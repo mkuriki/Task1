@@ -3,6 +3,7 @@
         "@tabSize": 2
     },
     "extensions": {
+        "@aws.profile": "profile:default",
         "@json.schemas": []
     },
     "general": {
